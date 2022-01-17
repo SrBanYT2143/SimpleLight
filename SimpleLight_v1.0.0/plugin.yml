@@ -3,7 +3,7 @@ main: BanzinhoDev\Light\Main
 version: 1.0.0
 author: KriptoDevs
 api: 4.0.0
-description: Um plugin publico feito pelo Jonas, pocketmine 4.0.0, função luz.
+description: Um plugin publico feito pelo Jonas e Gui, pocketmine 4.0.0, função luz.
 
 commands:
   luz:
