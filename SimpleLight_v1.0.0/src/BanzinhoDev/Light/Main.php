@@ -24,7 +24,6 @@ use pocketmine\entity\effect\VanillaEffects;
 use pocketmine\entity\effect\EffectManager;
 use pocketmine\event\Listener;
 use pocketmine\player\Player;
-use const INT32_MAX;
 use pocketmine\world\Position;
 
 class Main extends PluginBase implements Listener{
