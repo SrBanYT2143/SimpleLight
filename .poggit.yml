@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/SrBanYT2143/SimpleLight
+build-by-default: true
+branches:
+- main
+projects:
+  SimpleLight_v1.0.0:
+    path: SimpleLight_v1.0.0/
+...
